@@ -1,0 +1,11 @@
+.task-item {
+    cursor: pointer;
+    user-select: none;
+}
+
+
+.completed {
+    text-decoration: line-through;
+    text-decoration-thickness: 3px;
+    text-decoration-color: #04AA6D;
+}
